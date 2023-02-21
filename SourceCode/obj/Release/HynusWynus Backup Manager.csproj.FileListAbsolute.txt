@@ -1,0 +1,54 @@
+D:\HynusHynus_BackupManager\bin\Release\ControlzEx.xml
+D:\HynusHynus_BackupManager\bin\Release\MahApps.Metro.xml
+D:\HynusHynus_BackupManager\bin\Release\Microsoft.Xaml.Behaviors.xml
+D:\HynusHynus_BackupManager\bin\Release\Newtonsoft.Json.xml
+D:\HynusHynus_BackupManager\bin\Release\System.Diagnostics.DiagnosticSource.xml
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.AssemblyReference.cache
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.SuggestedBindingRedirects.cache
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus_BackupManager.MainWindow.resources
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.GenerateResource.cache
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.CoreCompileInputs.cache
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.Fody.CopyLocal.cache
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.Fody.RuntimeCopyLocal.cache
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.CopyComplete
+D:\HynusHynus_BackupManager\bin\Release\HynusWynus_BackupManager.exe.config
+D:\HynusHynus_BackupManager\bin\Release\HynusWynus_BackupManager.exe
+D:\HynusHynus_BackupManager\bin\Release\HynusWynus_BackupManager.pdb
+D:\HynusHynus_BackupManager\bin\Release\Spectre.Console.xml
+D:\HynusHynus_BackupManager\bin\Release\System.Buffers.xml
+D:\HynusHynus_BackupManager\bin\Release\System.Memory.xml
+D:\HynusHynus_BackupManager\bin\Release\System.Numerics.Vectors.xml
+D:\HynusHynus_BackupManager\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus_BackupManager.DebugForm.resources
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus_BackupManager.Properties.Resources.resources
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus_BackupManager.Resources.resources
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus_BackupManager.exe
+D:\HynusHynus_BackupManager\obj\Release\HynusWynus_BackupManager.pdb
+d:\HynusWynus_BackupManager\bin\Release\HynusWynus BackupManager.exe.config
+d:\HynusWynus_BackupManager\bin\Release\HynusWynus BackupManager.exe
+d:\HynusWynus_BackupManager\bin\Release\HynusWynus BackupManager.pdb
+d:\HynusWynus_BackupManager\bin\Release\Newtonsoft.Json.xml
+d:\HynusWynus_BackupManager\bin\Release\Spectre.Console.xml
+d:\HynusWynus_BackupManager\bin\Release\System.Buffers.xml
+d:\HynusWynus_BackupManager\bin\Release\System.Diagnostics.DiagnosticSource.xml
+d:\HynusWynus_BackupManager\bin\Release\System.Memory.xml
+d:\HynusWynus_BackupManager\bin\Release\System.Numerics.Vectors.xml
+d:\HynusWynus_BackupManager\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.AssemblyReference.cache
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.SuggestedBindingRedirects.cache
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus_BackupManager.Forms.DebugForm.resources
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus_BackupManager.MainWindow.resources
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus_BackupManager.Forms.NewBackupForm.resources
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus_BackupManager.Forms.SettingsForm.resources
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus_BackupManager.Properties.Resources.resources
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus_BackupManager.Resources.resources
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.GenerateResource.cache
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.CoreCompileInputs.cache
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.Fody.CopyLocal.cache
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus Backup Manager.csproj.CopyComplete
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus BackupManager.exe
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus BackupManager.pdb
+d:\HynusWynus_BackupManager\bin\Release\HynusWynus BackupManager.exe.manifest
+d:\HynusWynus_BackupManager\bin\Release\HynusWynus BackupManager.application
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus BackupManager.exe.manifest
+d:\HynusWynus_BackupManager\obj\Release\HynusWynus BackupManager.application

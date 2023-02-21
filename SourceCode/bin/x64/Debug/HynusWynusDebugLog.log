@@ -1,0 +1,195 @@
+#################
+This debug log works best with the VsCode package "Log File Highlighter". And don't use the "Abyss" theme or one like it
+because the term ERROR will show up as green.
+If this opened in Notepad, have fun reading this without color :]
+#################
+
+[2/21/2023 9:07:37 AM] LOG  : Starting debug console
+[2/21/2023 9:07:37 AM] LOG  : Form HynusWynus_BackupManager.DebugForm initialized
+[2/21/2023 9:07:37 AM] LOG  : Starting settings form
+[2/21/2023 9:07:37 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:07:37 AM] INFO : Settings loaded successfully
+[2/21/2023 9:07:37 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:09:32 AM] LOG  : Starting debug console
+[2/21/2023 9:09:32 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:09:32 AM] LOG  : Starting settings form
+[2/21/2023 9:09:32 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:09:32 AM] INFO : Settings loaded successfully
+[2/21/2023 9:09:32 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:09:50 AM] LOG  : App exiting...
+[2/21/2023 9:10:27 AM] LOG  : Starting debug console
+[2/21/2023 9:10:27 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:10:27 AM] LOG  : Starting settings form
+[2/21/2023 9:10:27 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:10:27 AM] INFO : Settings loaded successfully
+[2/21/2023 9:10:27 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:10:28 AM] LOG  : App exiting...
+[2/21/2023 9:10:31 AM] LOG  : Starting debug console
+[2/21/2023 9:10:32 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:10:32 AM] LOG  : Starting settings form
+[2/21/2023 9:10:32 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:10:32 AM] INFO : Settings loaded successfully
+[2/21/2023 9:10:32 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:10:36 AM] LOG  : HynusWynus_BackupManager.AppSettings finalizing : Hash => 7880838
+[2/21/2023 9:10:36 AM] LOG  : HynusWynus_BackupManager.Settings finalizing : Hash => 35342034
+[2/21/2023 9:11:19 AM] LOG  : App exiting...
+[2/21/2023 9:12:35 AM] LOG  : Starting debug console
+[2/21/2023 9:12:35 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:12:35 AM] LOG  : Starting settings form
+[2/21/2023 9:12:36 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:12:36 AM] INFO : Settings loaded successfully
+[2/21/2023 9:12:36 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:12:43 AM] LOG  : App exiting...
+[2/21/2023 9:15:25 AM] LOG  : Starting debug console
+[2/21/2023 9:15:25 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:15:25 AM] LOG  : Starting settings form
+[2/21/2023 9:15:25 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:15:25 AM] INFO : Settings loaded successfully
+[2/21/2023 9:15:25 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:15:31 AM] LOG  : HynusWynus_BackupManager.AppSettings finalizing : Hash => 7880838
+[2/21/2023 9:15:31 AM] LOG  : HynusWynus_BackupManager.Settings finalizing : Hash => 35342034
+[2/21/2023 9:16:25 AM] LOG  : App exiting...
+[2/21/2023 9:16:58 AM] LOG  : Starting debug console
+[2/21/2023 9:16:58 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:16:58 AM] LOG  : Starting settings form
+[2/21/2023 9:16:58 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:16:58 AM] INFO : Settings loaded successfully
+[2/21/2023 9:16:58 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:17:59 AM] LOG  : Starting debug console
+[2/21/2023 9:17:59 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:17:59 AM] LOG  : Starting settings form
+[2/21/2023 9:17:59 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:17:59 AM] INFO : Settings loaded successfully
+[2/21/2023 9:17:59 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:18:10 AM] LOG  : App exiting...
+[2/21/2023 9:18:52 AM] LOG  : Starting debug console
+[2/21/2023 9:18:52 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:18:52 AM] LOG  : Starting settings form
+[2/21/2023 9:18:52 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:18:52 AM] INFO : Settings loaded successfully
+[2/21/2023 9:18:52 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:21:22 AM] LOG  : Starting debug console
+[2/21/2023 9:21:22 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:21:22 AM] LOG  : Starting settings form
+[2/21/2023 9:21:22 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:21:22 AM] INFO : Settings loaded successfully
+[2/21/2023 9:21:22 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:22:02 AM] LOG  : App exiting...
+[2/21/2023 9:23:33 AM] LOG  : Starting debug console
+[2/21/2023 9:23:33 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:23:33 AM] LOG  : Starting settings form
+[2/21/2023 9:23:33 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:23:33 AM] INFO : Settings loaded successfully
+[2/21/2023 9:23:33 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:23:46 AM] LOG  : App exiting...
+[2/21/2023 9:27:13 AM] INFO : Settings loaded successfully
+[2/21/2023 9:27:13 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:27:20 AM] LOG  : Starting settings form
+[2/21/2023 9:27:20 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:27:29 AM] WARN : Saving...
+[2/21/2023 9:27:29 AM] INFO : Settings saved
+[2/21/2023 9:27:34 AM] LOG  : App exiting...
+[2/21/2023 9:33:05 AM] LOG  : App exit triggered
+[2/21/2023 9:33:05 AM] LOG  : App exiting...
+[2/21/2023 9:33:05 AM] LOG  : HynusWynus_BackupManager.Settings finalizing : Hash => 24827179
+[2/21/2023 9:34:56 AM] LOG  : App exit triggered
+[2/21/2023 9:34:56 AM] LOG  : App exiting...
+[2/21/2023 9:34:56 AM] LOG  : HynusWynus_BackupManager.AppSettings exiting : Hash => 22118023
+[2/21/2023 9:34:58 AM] LOG  : Starting debug console
+[2/21/2023 9:34:58 AM] LOG  : Form HynusWynus_BackupManager.Forms.DebugForm initialized
+[2/21/2023 9:34:58 AM] INFO : Settings loaded successfully
+[2/21/2023 9:34:58 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:35:00 AM] LOG  : Starting settings form
+[2/21/2023 9:35:00 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:35:03 AM] LOG  : App exit triggered
+[2/21/2023 9:35:03 AM] LOG  : App exiting...
+[2/21/2023 9:35:03 AM] LOG  : HynusWynus_BackupManager.AppSettings exiting : Hash => 22118023
+[2/21/2023 9:35:09 AM] INFO : Settings loaded successfully
+[2/21/2023 9:35:09 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:35:11 AM] LOG  : Starting debug console
+[2/21/2023 9:36:53 AM] LOG  : HynusWynus_BackupManager.Settings exiting : Hash => 7880838
+[2/21/2023 9:38:08 AM] LOG  : App exit triggered
+[2/21/2023 9:38:08 AM] LOG  : App exiting...
+[2/21/2023 9:40:12 AM] INFO : Settings loaded successfully
+[2/21/2023 9:40:12 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:40:29 AM] LOG  : Starting debug console[2/21/2023 9:42:14 AM] LOG  : Closing debug form
+[2/21/2023 9:42:18 AM] LOG  : App exit triggered
+[2/21/2023 9:42:18 AM] LOG  : App exiting...
+[2/21/2023 9:47:40 AM] INFO : Settings loaded successfully
+[2/21/2023 9:47:41 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:47:42 AM] LOG  : Starting debug console
+[2/21/2023 9:47:47 AM] LOG  : Closing debug form
+[2/21/2023 9:47:47 AM] LOG  : App exit triggered
+[2/21/2023 9:47:47 AM] LOG  : App exiting...
+[2/21/2023 9:48:07 AM] INFO : Settings loaded successfully
+[2/21/2023 9:48:07 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:48:08 AM] LOG  : Starting debug console
+[2/21/2023 9:48:19 AM] LOG  : Closing debug form
+[2/21/2023 9:48:19 AM] LOG  : App exit triggered
+[2/21/2023 9:48:20 AM] LOG  : App exiting...
+[2/21/2023 9:48:25 AM] INFO : Settings loaded successfully
+[2/21/2023 9:48:25 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:48:26 AM] LOG  : Starting debug console
+[2/21/2023 9:48:29 AM] LOG  : Closing debug form
+[2/21/2023 9:48:30 AM] LOG  : App exit triggered
+[2/21/2023 9:48:30 AM] LOG  : App exiting...
+[2/21/2023 9:53:02 AM] INFO : Settings loaded successfully
+[2/21/2023 9:53:02 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:53:04 AM] LOG  : Starting settings form
+[2/21/2023 9:53:04 AM] LOG  : Form HynusWynus_BackupManager.Forms.SettingsForm initialized
+[2/21/2023 9:53:07 AM] LOG  : Starting debug console
+[2/21/2023 9:53:14 AM] LOG  : Closing debug form
+[2/21/2023 9:53:16 AM] LOG  : App exit triggered
+[2/21/2023 9:53:16 AM] LOG  : App exiting...
+[2/21/2023 9:59:29 AM] INFO : Settings loaded successfully
+[2/21/2023 9:59:29 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 9:59:30 AM] LOG  : Starting debug console
+[2/21/2023 9:59:47 AM] LOG  : Closing debug form
+[2/21/2023 9:59:49 AM] LOG  : App exit triggered
+[2/21/2023 9:59:49 AM] LOG  : App exiting...
+[2/21/2023 10:00:16 AM] INFO : Settings loaded successfully
+[2/21/2023 10:00:16 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 10:00:18 AM] LOG  : Starting debug console
+[2/21/2023 10:01:42 AM] LOG  : Closing debug form
+[2/21/2023 10:01:43 AM] LOG  : App exit triggered
+[2/21/2023 10:01:43 AM] LOG  : App exiting...
+[2/21/2023 10:02:44 AM] INFO : Settings loaded successfully
+[2/21/2023 10:02:44 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 10:02:54 AM] LOG  : Minimum log level switched to 
+[2/21/2023 10:02:54 AM] LOG  : Starting debug console
+[2/21/2023 10:03:00 AM] LOG  : Minimum log level switched to 
+[2/21/2023 10:03:07 AM] LOG  : Minimum log level switched to 
+[2/21/2023 10:03:14 AM] LOG  : App exit triggered
+[2/21/2023 10:03:14 AM] LOG  : App exiting...
+[2/21/2023 10:03:37 AM] INFO : Settings loaded successfully
+[2/21/2023 10:03:37 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 10:03:39 AM] LOG  : Minimum log level switched to Info
+[2/21/2023 10:03:39 AM] LOG  : Starting debug console
+[2/21/2023 10:03:46 AM] LOG  : HynusWynus_BackupManager.Settings exiting : Hash => 7880838
+[2/21/2023 10:04:13 AM] LOG  : Minimum log level switched to Warning
+[2/21/2023 10:04:19 AM] LOG  : Minimum log level switched to Log
+[2/21/2023 10:04:28 AM] LOG  : App exit triggered
+[2/21/2023 10:04:28 AM] LOG  : App exiting...
+[2/21/2023 10:07:11 AM] INFO : Settings loaded successfully
+[2/21/2023 10:07:11 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 10:07:13 AM] LOG  : App exit triggered
+[2/21/2023 10:07:13 AM] LOG  : App exiting...
+[2/21/2023 10:07:24 AM] INFO : Settings loaded successfully
+[2/21/2023 10:07:24 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 10:07:25 AM] LOG  : Minimum log level switched to Log
+[2/21/2023 10:07:25 AM] LOG  : Starting debug console
+[2/21/2023 10:07:42 AM] LOG  : Minimum log level switched to Log
+[2/21/2023 10:07:46 AM] LOG  : App exit triggered
+[2/21/2023 10:07:46 AM] LOG  : App exiting...
+[2/21/2023 10:07:55 AM] INFO : Settings loaded successfully
+[2/21/2023 10:07:55 AM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 10:08:00 AM] LOG  : Minimum log level switched to Log
+[2/21/2023 10:08:00 AM] LOG  : Starting debug console
+[2/21/2023 10:08:03 AM] LOG  : Minimum log level switched to Error
+[2/21/2023 10:08:48 AM] LOG  : HynusWynus_BackupManager.Settings exiting : Hash => 7880838
+[2/21/2023 10:12:37 AM] LOG  : App exit triggered
+[2/21/2023 10:12:38 AM] LOG  : App exiting...
+[2/21/2023 3:32:24 PM] INFO : Settings loaded successfully
+[2/21/2023 3:32:24 PM] WARN : Could not load backups. If this is your first time, press 'New Backup' to get started
+[2/21/2023 3:32:25 PM] LOG  : App exit triggered
+[2/21/2023 3:32:25 PM] LOG  : App exiting...
